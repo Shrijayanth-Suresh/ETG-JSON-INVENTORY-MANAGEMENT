@@ -1,0 +1,2 @@
+# ETG-JSON-INVENTORY-MANAGEMENT
+JSON Inventory management system for ETG INTERNSHIP. This project is written in python done through GOOGLE COLLAB. This system has the ability to do functions like adding, viewing, deleting and updating inventory items. This system is represented in dictionary for easy access and it is in the following format {product id , Name, Price, Expiry, and Quantity}. It's a minor project and hopes useful for those in need.
